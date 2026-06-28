@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/ChatGPT Image Jun 28, 2026, 09_18_37 PM.png" alt="Applivo" width="100%">
+  <img src="assets/ChatGPT Image Jun 28, 2026, 09_18_37 PM.png" width="100" alt="Applivo">
 </p>
 
 <p align="center">
