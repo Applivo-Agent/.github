@@ -1,94 +1,40 @@
-<p align="center">
-  <img src="assets/ChatGPT Image Jun 28, 2026, 10_02_41 PM (1).png" width="400" alt="Applivo">
-</p>
+<div align="center">
 
-<p align="center">
-Building the next generation of AI-powered career automation.
-</p>
+<img src="assets/ChatGPT Image Jun 28, 2026, 10_02_41 PM (1).png" width="200" alt="Applivo">
 
-<p align="center">
-<a href="https://applivo.in">Website</a> •
-<a href="https://docs.applivo.in">Documentation</a> •
-<a href="https://github.com/Applivo-Agent">GitHub</a> •
-<a href="https://www.linkedin.com/company/applivo">LinkedIn</a>
-</p>
 
----
+#### The AI layer for your career.
 
-## Platform
+<br>
 
-Applivo is an AI-native platform that automates the entire job application lifecycle—from resume intelligence and opportunity discovery to application submission and career tracking.
+[![Website](https://img.shields.io/badge/applivo.in-000?style=flat-square&logo=vercel&logoColor=white)](https://applivo.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/applivo-agent/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/applivo.in/)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/applivo_in)
 
-Our platform combines large language models, browser automation, and cloud-native infrastructure to build production-ready career automation systems.
+</div>
+
 
 ---
 
-## Core Products
+Applivo is an AI-native platform that automates the full job and internship application lifecycle — from discovering the right opportunities to submitting polished applications — without manual effort.
 
-### **Applivo Platform**
+We combine LLM-based resume intelligence with autonomous browser agents to match, apply, and track across platforms like Internshala, LinkedIn, and Naukri, at scale and in the background.
 
-AI-powered job application platform with intelligent resume analysis, job matching, automated applications, and application tracking.
+**Core platform**
 
----
+- Autonomous apply agents powered by Playwright with anti-detection handling
+- LLM-driven resume and job description match scoring via OpenRouter
+- Multi-user session isolation with AES-256-GCM encrypted credential storage
+- Real-time application tracking, notifications, and status sync
+- Modular worker architecture built on FastAPI, Celery, Redis, and PostgreSQL
 
-### **Applivo Browser Automation**
+**In active development.** Contributions, feedback, and collaboration welcome.
 
-Production-grade browser automation built on Playwright for secure and reliable application workflows.
-
----
-
-### **Applivo AI**
-
-A unified AI orchestration layer supporting multiple foundation models with intelligent routing, prompt management, and cost optimization.
+Reach us at [applivoagent@gmail.com](mailto:applivoagent@gmail.com)
 
 ---
 
-### **Applivo Infrastructure**
-
-Containerized backend services, asynchronous workers, scalable APIs, and cloud deployment infrastructure.
-
----
-
-## Open Source
-
-Our engineering ecosystem is organized into reusable components.
-
-| Repository | Description |
-|------------|-------------|
-| **Platform Infrastructure** | Backend APIs and business logic |
-| **Frontend** | Next.js web application |
-| **AI Services** | LLM orchestration and AI pipelines |
-| **Browser Workers** | Playwright automation engine |
-| **Infrastructure** | Docker, deployment and DevOps |
-| **SDKs** | Developer integrations |
-
----
-
-## Technology
-
-- FastAPI
-- Next.js
-- PostgreSQL
-- Redis
-- Celery
-- Playwright
-- Docker
-- OpenAI
-- Gemini
-- Groq
-
----
-
-## Mission
-
-We're building intelligent infrastructure that removes repetitive work from the hiring process, allowing candidates to focus on preparation instead of manual applications.
-
----
-
-## Connect
-
-Website: https://applivo.in
-
-Documentation: https://docs.applivo.in
-
-Email: applivoagent@gmail.com
+<div align="center">
+Built in India &nbsp;·&nbsp; <a href="https://applivo.in">applivo.in</a>
+</div>
