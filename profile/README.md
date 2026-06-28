@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="assets/ChatGPT Image Jun 28, 2026, 10_02_41 PM (1).png" width="200" alt="Applivo">
+<img src="assets/ChatGPT Image Jun 28, 2026, 10_02_41 PM (1).png" width="250" alt="Applivo">
 
-
-#### The AI layer for your career.
 
 <br>
 
