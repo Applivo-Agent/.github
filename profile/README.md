@@ -3,6 +3,8 @@
 <img src="assets/ChatGPT Image Jun 28, 2026, 10_02_41 PM (1).png" width="250" alt="Applivo">
 
 
+
+<br>
 <br>
 
 [![Website](https://img.shields.io/badge/applivo.in-000?style=flat-square&logo=vercel&logoColor=white)](https://applivo.in)
